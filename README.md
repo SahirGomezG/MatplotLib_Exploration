@@ -1,3 +1,3 @@
 # MatplotLib_Exploration
 
-Set of programms to explore MatplotLib and Pandas libraries
+Set of programs to explore MatplotLib and Pandas libraries to manipulate data and visualization **data from stackoverflow
